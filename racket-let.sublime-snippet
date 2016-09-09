@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[let
+	((${1:expr1} ${2:val1}))
+	(body)]]></content>
+	<!-- Optional: Tab trigger to activate the snippet -->
+	<tabTrigger>let</tabTrigger>
+	<!-- Optional: Scope the tab trigger will be active in -->
+	<scope>source.racket</scope>
+	<!-- Optional: Description to show in the menu -->
+	<description>let expression</description>
+</snippet>

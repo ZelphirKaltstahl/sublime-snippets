@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[define (${1:name} ${2:params})
+	(${3:code})]]></content>
+	<!-- Optional: Tab trigger to activate the snippet -->
+	<tabTrigger>define</tabTrigger>
+	<!-- Optional: Scope the tab trigger will be active in -->
+	<scope>source.racket</scope>
+	<!-- Optional: Description to show in the menu -->
+	<description>define function</description>
+</snippet>

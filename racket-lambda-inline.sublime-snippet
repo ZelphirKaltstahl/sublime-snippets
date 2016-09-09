@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[lambda (${1:params}) (${2:code})]]></content>
+	<!-- Optional: Tab trigger to activate the snippet -->
+	<tabTrigger>lambda</tabTrigger>
+	<!-- Optional: Scope the tab trigger will be active in -->
+	<scope>source.racket</scope>
+	<!-- Optional: Description to show in the menu -->
+	<description>lambda expression inline</description>
+</snippet>

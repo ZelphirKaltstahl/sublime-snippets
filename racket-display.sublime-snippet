@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[display ${1:expr}]]></content>
+	<!-- Optional: Tab trigger to activate the snippet -->
+	<tabTrigger>display</tabTrigger>
+	<!-- Optional: Scope the tab trigger will be active in -->
+	<scope>source.racket</scope>
+	<!-- Optional: Description to show in the menu -->
+	<description>display</description>
+</snippet>

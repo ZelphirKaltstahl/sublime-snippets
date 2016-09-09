@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[cond
+	((${1:predicate1}) (${2:consequent1}))
+	((${3:predicate2}) (${4:consequent2}))
+	((${5:predicate3}) (${6:consequent3}))]]></content>
+	<!-- Optional: Tab trigger to activate the snippet -->
+	<tabTrigger>cond</tabTrigger>
+	<!-- Optional: Scope the tab trigger will be active in -->
+	<scope>source.racket</scope>
+	<!-- Optional: Description to show in the menu -->
+	<description>conditional expression</description>
+</snippet>

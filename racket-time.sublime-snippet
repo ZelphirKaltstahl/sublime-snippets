@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[(time (${1:code}))]]></content>
+	<!-- Optional: Tab trigger to activate the snippet -->
+	<tabTrigger>time</tabTrigger>
+	<!-- Optional: Scope the tab trigger will be active in -->
+	<scope>source.racket</scope>
+	<!-- Optional: Description to show in the menu -->
+	<description>time code</description>
+</snippet>
